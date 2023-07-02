@@ -1,0 +1,12 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "Name": "Test",
+      "Email": "test@gmail.com",
+      "Mobile":"1234567899",
+      "Course":"Python"
+    }
+  ]
+  
+}
